@@ -5,9 +5,6 @@ This is a BibTeX style file (`.bst`) for the
 exists for NTJ, so this is my attempt to fill that gap.  It is a work-in-progress, so feel 
 free to suggest changes, branch, etc.
 
-It’s not perfect and probably won’t match NTJ’s requirements in every case —  
-but it should give authors a starting point. Feedback and improvements are welcome!
-
 Here is style guideline I created it from: https://ntanet.org/wp-content/uploads/2019/11/1.-NTJ-Style-Guidelines-11-01-19.pdf
 
 ---
