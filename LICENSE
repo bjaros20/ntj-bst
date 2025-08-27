@@ -1,0 +1,32 @@
+This work contains material derived from
+Patrick W. Daly’s `merlin.mbs` files (1994–2011),
+distributed under the LaTeX Project Public License (LPPL).
+
+The derived file `ntj.bst` and this repository are distributed under
+the terms of the LPPL. See http://www.latex-project.org/lppl.txt
+or the copy included below.
+
+---
+
+LaTeX Project Public License (LPPL)
+===================================
+
+LPPL Version 1.3c  2008-05-04
+
+Copyright 1999 2002-2008 LaTeX3 Project and any individual authors
+listed elsewhere in this file.  All rights reserved.
+
+(Full license text continues here — you can copy it directly from:
+https://www.latex-project.org/lppl.txt)
+
+---
+
+Additional Attribution
+======================
+
+This repository makes available a work-in-progress BibTeX style file 
+(`ntj.bst`) for the National Tax Journal. It was adapted, packaged, 
+and shared to help fill a gap, since it seemed official style file seems to exist.
+
+Created by:  
+Benjamin Jaros, Hoover Institution at Stanford University, 2025
