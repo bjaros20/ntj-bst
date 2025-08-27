@@ -11,8 +11,7 @@ Here is style guideline I created it from: https://ntanet.org/wp-content/uploads
 
 ## Background
 
-The [National Tax Journal (NTJ)](https://ntanet.org/publications/ntj/)  
-is an establishment journal focused on tax and public finance research.  
+The [National Tax Journal (NTJ)](https://ntanet.org/publications/ntj/)  is a journal focused on tax and public finance research.  
 It’s published by the National Tax Association and distributed by the University of Chicago Press.  
 
 ---
