@@ -1,0 +1,27 @@
+\documentclass[12pt]{article}
+
+% Use natbib for author–year citations (required by ntj.bst)
+\usepackage{natbib}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+
+\title{Demo of the \texttt{ntj.bst} Style}
+\author{Benjamin Jaros}
+\date{27 August 2025}
+
+\begin{document}
+\maketitle
+
+This is a minimal demo of the \texttt{ntj.bst} style for the
+\emph{National Tax Journal}. It uses \texttt{natbib} for author--year citations.
+
+Example in-text citations:
+\citet{giroud_state_2019} analyze establishment-level responses to state taxes.
+\citet{agrawal_state_2024} study taxation of nonresident income and location of work.
+On tax planning and efficiency, see \citet{auerbach_extent_2007}.
+A related working paper is \citep{jaros_ssf_2025}.
+
+\bibliographystyle{ntj}
+\bibliography{manual_references}
+\end{document}
