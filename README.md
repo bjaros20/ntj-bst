@@ -1,9 +1,7 @@
 # ntj-bst
 
-This is a BibTeX style file (`.bst`) for the  
-**National Tax Journal (NTJ)**. As far as I can tell, no official `.bst` file  
-exists for NTJ, so this is my attempt to fill that gap.  It is a work-in-progress, so feel 
-free to suggest changes, branch, etc.
+This is a BibTeX style file (`.bst`) for the  **National Tax Journal (NTJ)**. As far as I can tell, no official `.bst` file  
+exists for NTJ, so this is my attempt to fill that gap.  It is a work-in-progress, so feel free to suggest changes, branch, etc.
 
 Here is style guideline I created it from: https://ntanet.org/wp-content/uploads/2019/11/1.-NTJ-Style-Guidelines-11-01-19.pdf
 
